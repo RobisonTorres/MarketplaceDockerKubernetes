@@ -18,7 +18,7 @@ Before getting started, make sure the following tools are installed:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/RobisonTorres/Marketplace.git
+git clone https://github.com/RobisonTorres/MarketplaceDockerKubernetes.git
 cd Marketplace
 ```
 
