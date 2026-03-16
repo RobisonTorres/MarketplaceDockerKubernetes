@@ -29,4 +29,4 @@ application-prod.properties
 **/docker-compose.override.yml
 
 # ===== Kubernetes =====
-**/*secret*.yaml
+#**/*secret*.yaml
